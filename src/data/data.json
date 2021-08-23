@@ -1,0 +1,95 @@
+{
+  "Header": {
+    "title": "Hi! I'm Iuri.",
+    "paragraph": "How are you doing? Welcome to my page!"
+  },
+  "About": {
+    "paragraph": "I'm Iuri. 25 years old, born in South Brazil, living in Germany for the past 4 years. In the last 3.5 years I've been working at a robotics start-up here in Ingolstadt. For a bit of a life shake-up and for a more exciting work environment, I'm currently looking for a new job opportunity in the USA!",
+    "Why": [
+      "Great software developer",
+      "Engaged",
+      "Reliable",
+      "Self-starter"
+    ],
+    "Why2": [
+      "Problem solver",
+      "Leader",
+      "Learner",
+      "Teamwork taken to the next level"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Python",
+      "text": "4 years of high-performance scripts and libs"
+    },
+    {
+      "icon": "fa fa-file-code-o",
+      "name": "C/C++",
+      "text": "2 years of production-level, robust coding"
+    },
+    {
+      "icon": "fa fa-terminal",
+      "name": "Linux",
+      "text": "4 years working on it, got all quirks and features at the tip of my fingers"
+    },
+    {
+      "icon": "fa fa-sitemap",
+      "name": "Software architecture",
+      "text": "3 years developing industry-quality software based on the best fitting design patterns"
+    },
+    {
+      "icon": "fa fa-cog",
+      "name": "Robotics",
+      "text": "3 years specifying, developing algorithms and code, testing and doing integration on robots"
+    },
+    {
+      "icon": "fa fa-bug",
+      "name": "Unit & Integration testing",
+      "text": "2 years specifying, writing and performing all sorts of tests - from unit to system tests"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/arculus.jpg",
+      "text": "Mr. Ferreira exceeded our expectations. Not only did he manage to deliver excellent results but with a commitment that - in our experience - is unusual for bachelor candidates. He is an eager, persevere student and acquires new knowledge very quickly, while being very modest about his achievements. He was and still is a great asset to our team.",
+      "name": "Marius Leffler, former CTO @ arculus GmbH"
+    },
+    {
+      "img": "img/testimonials/thi.jpg",
+      "text": "Iuri is a very reliable person. He is very motivated, has a lot of ideas of his own and works fast and exact. The results always excelled my expectations. I highly recommend him without reservation.",
+      "name": "Prof. Dr.-Ing. Harald Göllinger @ Mechatronics Lab - THI"
+    }
+  ],
+  "Contact": {
+    "address_str": "Egerlandstraße",
+    "address_city": "85053 Ingolstadt Germany",
+    "phone": "+49 176 702 111 03",
+    "email": "iuricuneo@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/iuri-c-ferreira",
+    "github": "https://github.com/iuricuneo"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-exclamation",
+      "title": "Problem solving",
+      "text": "Being responsible for integration of mobile robots, problem solving is in my daily routine."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Self-starter",
+      "text": "Why just sit and watch when you can change the world? No waiting for others to do things I can do myself."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Leader",
+      "text": "Setting an example for others, pushing the bar high and bringing others along in the journey."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Reliable",
+      "text": "Give me an idea and a deadline I'll give you back a product ready for delivery."
+    }
+  ]
+}
