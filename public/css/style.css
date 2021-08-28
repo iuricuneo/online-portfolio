@@ -141,10 +141,10 @@ hr {
   background-color: #608dfd;
 }
 .project-title {
-    padding-bottom: 70px;
+    text-align: left;
 }
 .project-title h3 {
-  position: absolute;
+  position: relative;
   margin-top: 10px;
   margin-bottom: 15px;
   padding-bottom: 15px;
@@ -202,18 +202,17 @@ hr {
   font-size: 18px;
 }
 .project-text {
-  position: absolute;
+  position: relative;
   margin-top: 0px;
   margin-bottom: 0px;
   padding-bottom: 0px;
   left: 0%;
   margin-left: 20px;
   font-size: 20px;
+  text-align: left;
 }
 .portfolio-items {
-    clear: both;
-    margin-bottom: 150px;
-    padding-bottom: 150px;
+    margin-bottom: 20px;
 }
 .btn-custom {
   font-family: "Raleway", sans-serif;

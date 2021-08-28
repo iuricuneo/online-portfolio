@@ -9,7 +9,7 @@ export const Gallery = (props) => {
           </p>
         </div>
         <div className='row'>
-          <div className='portfolio-items'>
+          <div className='col-md-12 portfolio-items'>
 
             <div className='col-sm-6 col-md-4 col-lg-4'>
               <div className='portfolio-item'>
@@ -17,7 +17,7 @@ export const Gallery = (props) => {
                   {' '}
                   <a
                     href='https://www.arculus.de/product/#arculee'
-                    title='Project Title'
+                    title='arculus GmbH'
                     data-lightbox-gallery='gallery1'
                     target="_blank"
                     rel="noopener noreferrer"
@@ -28,7 +28,7 @@ export const Gallery = (props) => {
                     <img
                       src='img/testimonials/arculus.jpg'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='arculus GmbH'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -50,14 +50,14 @@ export const Gallery = (props) => {
             </div>
           </div>
 
-          <div className='portfolio-items'>
+          <div className='col-md-12 portfolio-items'>
             <div className='col-sm-6 col-md-4 col-lg-4'>
               <div className='portfolio-item'>
                 <div className='hover-bg crop'>
                   {' '}
                   <a
                     href='https://www.arculus.de/product/#arculee'
-                    title='Project Title'
+                    title='arculus GmbH'
                     data-lightbox-gallery='gallery1'
                     target="_blank"
                     rel="noopener noreferrer"
@@ -68,7 +68,7 @@ export const Gallery = (props) => {
                     <img
                       src='img/testimonials/arculus.jpg'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='arculus GmbH'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -91,7 +91,7 @@ export const Gallery = (props) => {
             </div>
           </div>
 
-          <div className='portfolio-items'>
+          <div className='col-md-12 portfolio-items'>
             <div className='col-sm-6 col-md-4 col-lg-4'>
               <div className='portfolio-item'>
                 <div className='hover-bg crop'>
@@ -99,7 +99,7 @@ export const Gallery = (props) => {
                   <img
                     src='img/testimonials/moneys.png'
                     className='img-responsive'
-                    alt='Project Title'
+                    alt='Trading algorithms'
                   />{' '}
                     <div className='hover-text'>
                       <h4>Trading group</h4>
@@ -122,14 +122,14 @@ export const Gallery = (props) => {
             </div>
           </div>
 
-          <div className='portfolio-items'>
+          <div className='col-md-12 portfolio-items'>
             <div className='col-sm-6 col-md-4 col-lg-4'>
               <div className='portfolio-item'>
                 <div className='hover-bg'>
                   {' '}
                   <a
                     href='https://www.thi.de/en/mechanical-engineering/laboratories/mechatronics-laboratory'
-                    title='Project Title'
+                    title='THI'
                     data-lightbox-gallery='gallery1'
                     target="_blank"
                     rel="noopener noreferrer"
@@ -140,7 +140,7 @@ export const Gallery = (props) => {
                     <img
                       src='img/testimonials/escooter.png'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='THI'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -160,14 +160,14 @@ export const Gallery = (props) => {
             </div>
           </div>
 
-          <div className='portfolio-items'>
+          <div className='col-md-12 portfolio-items'>
             <div className='col-sm-6 col-md-4 col-lg-4'>
               <div className='portfolio-item'>
                 <div className='hover-bg'>
                   {' '}
                   <a
                     href='https://inep.ufsc.br/'
-                    title='Project Title'
+                    title='Federal University of Santa Catarina'
                     data-lightbox-gallery='gallery1'
                     target="_blank"
                     rel="noopener noreferrer"
@@ -178,7 +178,7 @@ export const Gallery = (props) => {
                     <img
                       src='img/testimonials/pfc.png'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='Federal University of Santa Catarina'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -197,7 +197,7 @@ export const Gallery = (props) => {
             </div>
           </div>
 
-          <div className='portfolio-items'>
+          <div className='col-md-12 portfolio-items'>
             <div className='col-sm-6 col-md-4 col-lg-4'>
               <div className='portfolio-item'>
                 <div className='hover-bg'>
@@ -205,7 +205,7 @@ export const Gallery = (props) => {
                   <img
                     src='img/testimonials/labview.png'
                     className='img-responsive'
-                    alt='Project Title'
+                    alt='Federal University of Santa Catarina'
                   />{' '}
                     <div className='hover-text'>
                       <h4>University of Applied Sciences of Ingolstadt</h4>
