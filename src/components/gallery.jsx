@@ -36,7 +36,7 @@ export const Gallery = (props) => {
             </div>
 
             <div className='col-sm-6 col-md-8 col-lg-8'>
-              <div className='section-title'>
+              <div className='project-title'>
                 <h3>Hardware Abstraction Layer for autonomous mobile robots</h3>
               </div>
               <p className='project-text'>
@@ -76,7 +76,7 @@ export const Gallery = (props) => {
             </div>
 
             <div className='col-sm-6 col-md-8 col-lg-8'>
-              <div className='section-title'>
+              <div className='project-title'>
                 <h3>Charging Station for autonomous mobile robots</h3>
               </div>
               <p className='project-text'>
@@ -109,7 +109,7 @@ export const Gallery = (props) => {
             </div>
 
             <div className='col-sm-6 col-md-8 col-lg-8'>
-              <div className='section-title'>
+              <div className='project-title'>
                 <h3>Trading algorithms</h3>
               </div>
               <p className='project-text'>
@@ -148,7 +148,7 @@ export const Gallery = (props) => {
             </div>
 
             <div className='col-sm-6 col-md-8 col-lg-8'>
-              <div className='section-title'>
+              <div className='project-title'>
                 <h3>E-scooter with telemetry function</h3>
               </div>
               <p className='project-text'>
@@ -186,7 +186,7 @@ export const Gallery = (props) => {
             </div>
 
             <div className='col-sm-6 col-md-8 col-lg-8'>
-              <div className='section-title'>
+              <div className='project-title'>
                 <h3>Controller generator for PFC Boost Power Converters</h3>
               </div>
               <p className='project-text'>
@@ -215,7 +215,7 @@ export const Gallery = (props) => {
             </div>
 
             <div className='col-sm-6 col-md-8 col-lg-8'>
-              <div className='section-title'>
+              <div className='project-title'>
                 <h3>Control panel for Thermodynamic experiments</h3>
               </div>
               <p className='project-text'>
